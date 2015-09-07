@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TranslateENGJ</string>
+    <string name="hello_world">Hello world!</string>
+
+    <string name="action_settings">Web View</string>
+    <string name="BannerID">ca-app-pub-6372592089538589/7624378552</string>
+</resources>
